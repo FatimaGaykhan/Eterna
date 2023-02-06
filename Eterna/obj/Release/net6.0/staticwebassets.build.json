@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "oSBmglmpHJPnyp65VgSQcL5CnszdTSBemUdRn3ageH8=",
+  "Source": "Eterna",
+  "BasePath": "_content/Eterna",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Eterna/wwwroot",
+      "Source": "Eterna",
+      "ContentRoot": "/Users/fatimagaykhanova/Desktop/backendtasks/Eterna/Eterna/wwwroot/",
+      "BasePath": "_content/Eterna",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

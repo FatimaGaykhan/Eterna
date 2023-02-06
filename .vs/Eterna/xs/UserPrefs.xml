@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B0B0DD92-17D8-4C35-8843-7166CF5182AD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eterna/Models/Pricing.cs">
+    <Files>
+      <File FileName="Eterna/Program.cs" />
+      <File FileName="Eterna/DataAccessLayer/AppDbContext.cs" Line="11" Column="48" />
+      <File FileName="Eterna/appsettings.json" Line="9" Column="107" />
+      <File FileName="Eterna/Models/Pricing.cs" Line="7" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eterna" expanded="True">
+            <Node name="Eterna" expanded="True">
+              <Node name="DataAccessLayer" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Pricing.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Eterna PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
